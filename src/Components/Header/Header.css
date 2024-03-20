@@ -1,0 +1,9 @@
+nav a {
+    margin-right: 9px;
+
+}
+
+ nav a.active {
+    background-color: yellow;
+    color: red
+}
